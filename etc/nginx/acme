@@ -1,0 +1,4 @@
+# certbot
+location /.well-known {
+    root /var/www/html;
+}
